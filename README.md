@@ -1,4 +1,4 @@
-# FUTURE_DS_01
+## Sales Dashboard
 
 This repository contains my internship tasks related to Data Science.
 
